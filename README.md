@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b889e868-d21c-4c30-bebc-07a4693b98e2)
+
+
 # Python Essentials 🐍
 
 Welcome to **PythonEssentials** – a personal repository dedicated to learning and practicing the fundamentals of Python programming.
