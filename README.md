@@ -20,3 +20,20 @@ This repository contains a collection of basic Python programs, examples, and mi
 
 ## 📁 Structure
 
+## ✨ Goals
+
+- Practice and reinforce core Python skills
+- Build reusable code snippets and scripts
+- Create a solid foundation for advanced topics like Data Science and Web Development
+
+## 👩🏽‍💻 Author
+
+**Faiza Aminu**  
+Python enthusiast | Data Science Intern | Lifelong Learner  
+📧 [your email or portfolio link]
+
+---
+
+Feel free to explore, learn, and suggest improvements! 💡
+
+
