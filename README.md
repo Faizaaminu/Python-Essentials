@@ -1,4 +1,4 @@
-# PythonEssentials 🐍
+# Python Essentials 🐍
 
 Welcome to **PythonEssentials** – a personal repository dedicated to learning and practicing the fundamentals of Python programming.
 
