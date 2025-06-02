@@ -29,8 +29,8 @@ This repository contains a collection of basic Python programs, examples, and mi
 ## 👩🏽‍💻 Author
 
 **Faiza Aminu**  
-Python enthusiast | Data Science Intern | Lifelong Learner  
-📧 [your email or portfolio link]
+Python enthusiast | Data Science  | Lifelong Learner  
+📧 [faizaaiminuu002@gmail.com portfolio link]
 
 ---
 
