@@ -30,7 +30,8 @@ This repository contains a collection of basic Python programs, examples, and mi
 
 **Faiza Aminu**  
 Python enthusiast | Data Science  | Lifelong Learner  
-📧 [faizaaiminuu002@gmail.com portfolio link]
+📧 [faizaaminnu002@gmail.com](mailto:faizaaminnu002@gmail.com)
+
 
 ---
 
